@@ -1,5 +1,5 @@
 # from fastapi import APIRouter
-from app.routers import items
+from routers import items
 from fastapi import FastAPI
 import uvicorn
 import numpy as np
