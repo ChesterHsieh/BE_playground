@@ -1,0 +1,1 @@
+easy = ['heart','skull','skull','elder','Fail','1','0','-1','-1','-1','-2','-3']
